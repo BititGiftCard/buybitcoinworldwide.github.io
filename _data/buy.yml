@@ -1869,14 +1869,13 @@
    desc_de: Bitcoin in verschiedenen Ländern über SEPA, OKPAY, SOFORT und Skrill kaufen.
    desc_bg: Купете биткойн в голям брой страни чрез SEPA, OKPAY, SOFORT и Skrill.
 
- - name: VirWoX
-   desc: One of the few ways to <a href="/en/buy-bitcoin-paypal/">buy bitcoin with PayPal</a>. Buy Second Life Lindens, and trade them for bitcoin. 
-   desc_skrill_short: One of the few ways to <a href="/en/buy-bitcoin-paypal/">buy bitcoins with PayPal</a> or Skrill. Buy Second Life Lindens, and trade them for bitcoin. 
-   desc_skrill: VirWoX isn't a Bitcoin exchange, but rather used to acquire Second Life Lindens (SLL), a currency used in the virtual world Second Life. It is, however, possible to buy SLL with Skrill, and then trade the SLL for bitcoin. We don't have a step-by-step tutorial for how to go through the process with Skrill, but it's <a href="/en/buy-bitcoin-paypal/">very similar to how it's done with PayPal</a>. Simply deposit with Skrill, buy SLL, and trade the SLL for BTC. You can follow the steps shown in the PayPal article for an approximate how-to.  
-   url: http://buybitcoinww.co/bitcoin_virwox
-   icon: https://www.buybitcoinworldwide.com/img/buy/virwox.png
-   countries: us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx, gb
-   po: pp, cc, skrill, okpay
+- name: Bitit
+   desc: Buy Bitcoins online by credit card and by cash in 100K+ Local stores.
+   url: https://www.bitit.gift
+   icon: https://s3-us-west-2.amazonaws.com/bitit-resources/bitit.png
+   countries: us fr ca gb pl de it es nl ch be lu mt il dk au gr is ie no fi za mx hr at pt se cy cz br ar
+   po: cc neosurf
+   desc_fr: Acheter des Bitcoins en ligne par carte bancaire ou en espèces dans 100k+ magasins
 
 ## - name: Trucoin
 ##   desc: Buy bitcoin instantly with a credit or debit card in over 30 US states.
